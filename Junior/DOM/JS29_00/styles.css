@@ -2,3 +2,11 @@ body {
 	color:  #222;
 	font-family: Verdana;
 }
+.rojaso {
+	color: red;
+	background-color: darkred;
+}
+.verdaso {
+	color: lightgreen;
+	background-color: darkgreen;
+}
